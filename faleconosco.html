@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="estilo.css">
+
+    <!-- ANIMAÇÃO W3 -->
+    <link rel="stylesheet" href="w3.css">
+
+    <!-- Berkshire Swash -->
+    <link href="https://fonts.googleapis.com/css?family=Berkshire+Swash&display=swap" rel="stylesheet"> 
+
+    <!-- Bree Serif -->
+    <link href="https://fonts.googleapis.com/css?family=Bree+Serif&display=swap" rel="stylesheet"> 
+
+    <!-- FONTE Open Sans Condensed -->
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap" rel="stylesheet"> 
+
+    <title>NATAL ENCANTADO</title>
+  </head>
+
+  <body>
+    <!-- INÍCIO SEÇÃO NAVBAR -->
+    <div class="mt-5">
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top color_back_nav">
+          <div class="container">
+              <a class="navbar-brand w3-animate-left titulo_nav" href="index.html">NATAL ENCANTADO</a>
+
+              <!-- ÍCONE DO NAVBAR -->
+              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Alterna navegação">
+                <span class="navbar-toggler-icon"></span>
+              </button>
+              <!-- ÍCONE DO NAVBAR -->
+
+              <!-- OPÇÕES NAVBAR -->
+              <div class="collapse navbar-collapse w3-animate-right opcoes_nav" id="navbarNav">
+                <ul class="navbar-nav ml-auto">
+                  
+                    <li class="nav-item">
+                      <a class="nav-link p-3" href="index.html">HOME</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link p-3" href="programacao.html">PROGRAMAÇÃO</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link p-3" href="faleconosco.html">FALE CONOSCO</a>
+                    </li>
+                  
+                  
+                </ul>
+              </div>
+              <!-- OPÇÕES NAVBAR -->
+
+            </div>
+
+        </nav>
+    </div>
+    <!-- FIM SEÇÃO NAVBAR -->
+
+    <!-- INÍCIO SEÇÃO DO FORMULÁRIO -->
+    <div class="conteudo_3 pt-5">
+      <div align="center">
+        <img class = "img-fluid" src="midia/infinito_1.png" width="300">
+        <br>
+        <label class="pb-3">FALE CONOSCO</label>
+        
+        <div class="container">
+          <!-- FORMULÁRIO A SER IMPLEMENTADO -->
+          <form id = "formulario">              
+              <div class="w3-animate-left">
+                <div class="form-group">           
+                  <input type="text" class="form-control" placeholder="Nome" required="required">
+                </div>
+
+                <div class="form-group">                    
+                  <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="e-mail" required="required">
+                </div>
+                
+                <div class="form-group">
+                  <input type="text" id = "assunto" class="form-control" placeholder="Assunto" required="required">
+                </div>
+
+                <textarea class="form-control mb-3" id="exampleFormControlTextarea1" rows="3" placeholder="Mensagem"></textarea>
+              </div>
+              
+              <div class="w3-animate-right">                               
+                <button type="submit" class="btn btn-outline-danger btn-lg btn_enviar">Enviar</button>
+              </div>                     
+          </form>
+          <!-- FORMULÁRIO A SER IMPLEMENTADO -->
+        </div>
+      </div> 
+
+    </div>
+    <!-- FIM SEÇÃO DO FORMULÁRIO -->
+
+   <!-- INÍCIO DA SEÇÃO DE RODAPÉ --> 
+    <footer>
+      <div class="container">
+
+        <div class="row pb-5 pt-5">
+
+          <div class="col-sm-4">
+              <img id = "img_rodape" class = "img-fluid" src="midia/logo_prefeitura.png">
+          </div> 
+
+          <div id = "txt_rodape" class="col-sm-4 pt-3">
+              <p>JOÃO PRODUÇÕES</p>
+              <p>2019 - NATAL ENCANTADO</p>
+          </div> 
+          <!-- NÃO POSSUEM LINK, POIS O NATAL ENCANTADO NÃO POSSUI REDES SOCIAIS --> 
+          <div class="redes_sociais_icones col-sm-4 pt-3 d-flex justify-content-center">
+            <a href="#"><img class = "img-fluid" src="midia/redes_sociais/facebook.png" ></a>  
+            <a href="#"><img class = "img-fluid" src="midia/redes_sociais/instagram.png" ></a>
+            <a href="#"><img class = "img-fluid" src="midia/redes_sociais/whatsapp.png" ></a>
+            <a href="#"><img class = "img-fluid" src="midia/redes_sociais/youtube.png" ></a>
+          </div>
+          <!-- NÃO POSSUEM LINK, POIS O NATAL ENCANTADO NÃO POSSUI REDES SOCIAIS --> 
+
+        </div>
+      </div>
+    </footer>
+     <!-- FIM DA SEÇÃO DE RODAPÉ --> 
+    
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  </body>
+</html>
+

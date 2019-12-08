@@ -1,0 +1,167 @@
+/* CSS */
+
+/* TAG */
+body{
+	background-color: #bc2b26;
+}
+footer{
+	width: 100%;
+	background-color: #FFF;
+}
+h1{
+	font-family: "Bree Serif",sans-serif !important;
+	text-align: center;
+	color: #bc2b26;
+}
+p{
+	font-family: "Bree Serif",sans-serif !important;
+	text-align: center;
+	color: #bc2b26;
+}
+h3{
+	font-family: "Bree Serif",sans-serif !important;
+	text-align: center;
+	color: #bc2b26;
+}
+label{
+	font-family: "Bree Serif",sans-serif !important;
+	text-align: center;
+	color: #bc2b26;
+	font-size: 35px;
+}
+
+/* ID */
+#txt_rodape p{
+	font-size: 20px;
+	font-family: 'Bree Serif', serif;
+	color: #15544c;
+	text-align: center;
+}
+#img_rodape{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
+/* CLASS */
+.titulo_nav{
+	font-family: 'Berkshire Swash', cursive;
+	color: #FFF !important;
+	font-size: 22px;
+}
+.opcoes_nav{
+	font-family: 'Bree Serif', serif;
+	font-size: 18px;
+	
+}
+.navbar-nav li a{
+	color: #FFF !important;
+}
+.navbar-nav li a:hover{
+	/*color: #15544c !important;*/
+	animation:opac 0.5s;
+	/*transition: 0.8s;*/
+}
+
+@keyframes opac{from{opacity:0} to{opacity:1}}
+
+.bg-branco{
+	background-color: #FFF;
+}
+.redes_sociais_icones img{
+	width: 60px !important;
+	height: 60px !important;
+}
+.redes_sociais_icones img:hover{
+	width: 70px !important;
+	height: 70px !important;
+	animation: w3-spin 2s infinite linear
+}
+
+@keyframes w3-spin{0%{transform:rotate(0deg)}100%{transform:rotate(359deg)}}
+
+.capa{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.txt_capa_1{
+	font-size: 30px;
+	color: #FFF;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+
+}
+
+.txt_capa_2{
+	font-size: 25px;
+	color: #FFF;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+
+}
+.btn-outline-danger{
+	background-color: #FFF;
+}
+.conteudo_2{
+	background-color: #FFF;
+	width: 100%;
+
+}
+.conteudo_3{
+	background-color: #FFF;
+	width: 100%;
+}
+.conteudo_4{
+	background-color: #FFF;
+	width: 100%;
+}
+.imagens{
+	width: 210px;
+	height: 200px;
+	border-radius: 50% !important;
+	text-align: center;	
+}
+.localizacao{
+	color: #bc2b26;
+	font-size: 20px;
+	font-family: 'Bree Serif', serif;
+	text-align: center;
+}
+.btn_locais{
+	width: 200px !important;
+}
+
+.btn-outline-danger{
+	width: 200px !important;
+}
+.btn_saiba_mais{
+	width: 100% !important;
+}
+
+.prefeitura{
+	border-radius: 5% !important;
+}
+.historia_feira{
+	font-size: 17px;
+	
+
+}
+.btn_enviar{
+	width: 100% !important;
+}
+.color_back_nav{
+	background-color: #bc2b26;
+}
+.conteudo_form{
+	background-color: #FFF;
+	width: 100%;
+}
+.modal-body{
+	font-size: 16px;
+
+}
+
+
