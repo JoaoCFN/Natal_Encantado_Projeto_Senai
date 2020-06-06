@@ -1,10 +1,10 @@
-# Natal_Encantado_Projeto_Senai
+# Natal Encantado - Projeto Senai
 
 ![Print da tela inicial](midia/natal-encantado.png?raw=true "Print do inicio da homepage")
 
-Projeto final da disciplina de Web Design do curso de Desenvolvimento de Sistemas - SENAI
+## :pencil: Projeto
 
-Acesse o projeto!
+ ### Projeto final da disciplina de Web Design do curso de Desenvolvimento de Sistemas - SENAI
 
-Link: https://joaocfn.github.io/Natal_Encantado_Projeto_Senai/
+### :link: Acesse o projeto: https://joaocfn.github.io/Natal_Encantado_Projeto_Senai/
 
