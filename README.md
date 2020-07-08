@@ -1,6 +1,11 @@
 <h2 align="center">Natal Encantado</h2>
 
-___
+<p align="center">
+  <a href="LICENSE">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JoaoCFN/Natal_Encantado_Projeto_Senai">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JoaoCFN/Natal_Encantado_Projeto_Senai">
+  </a>
+</p>
 
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
