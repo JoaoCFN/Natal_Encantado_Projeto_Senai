@@ -3,7 +3,6 @@
 <p align="center">
   <a href="LICENSE">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/JoaoCFN/Natal_Encantado_Projeto_Senai">
-    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/JoaoCFN/Natal_Encantado_Projeto_Senai">
   </a>
 </p>
 
@@ -13,9 +12,10 @@
   <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
 </h3>
 
+<img src="https://raw.githubusercontent.com/JoaoCFN/Natal_Encantado_Projeto_Senai/master/midia/print-web.png" width="1200">
+
 ___
 
-<img src="https://raw.githubusercontent.com/JoaoCFN/Natal_Encantado_Projeto_Senai/master/midia/print-web.png" width="1200">
 
 ## :information_source: Sobre
 
