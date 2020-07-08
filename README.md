@@ -9,7 +9,7 @@
 <h3 align="center">
   <a href="#information_source-sobre">Sobre</a>&nbsp;|&nbsp;
   <a href="#interrobang-motivo">Motivo</a>&nbsp;|&nbsp;
-  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;|&nbsp;
+  <a href="#rocket-tecnologias-utilizadas">Tecnologias</a>&nbsp;&nbsp;
 </h3>
 
 <img src="https://raw.githubusercontent.com/JoaoCFN/Natal_Encantado_Projeto_Senai/master/midia/print-web.png" width="1200">
